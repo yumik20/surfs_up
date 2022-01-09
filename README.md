@@ -10,9 +10,9 @@ This project is to provide temperature data analysis to see the trends for the m
 
 ## Results 
 
-[Jun temps](https://raw.githubusercontent.com/yumik20/surfs_up/main/resources/Jun%20temps.png)
+![Jun temps](https://raw.githubusercontent.com/yumik20/surfs_up/main/resources/Jun%20temps.png)
 
-[Dec temps](https://raw.githubusercontent.com/yumik20/surfs_up/main/resources/Dec%20temps.png)
+![Dec temps](https://raw.githubusercontent.com/yumik20/surfs_up/main/resources/Dec%20temps.png)
 
 * As you can see from above, the average temperatures in June and December are quite close, June is 74.9, which only about 4 degrees higher than December, at 71. 
 
